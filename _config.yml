@@ -19,12 +19,12 @@ description:
   "New site for Service Design at North East Lincolnshire Council"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://servicedesignnel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: gdunn15
+twitter_username: 
 github_username:  gdunn15
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
